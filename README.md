@@ -15,6 +15,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [Sequelize](https://sequelize.org/)
 - [Vue.js](https://vuejs.org/)
+- [Axios](https://axios-http.com/)
+- [Express](https://expressjs.com/)
 
 ## Como Rodar:
 
