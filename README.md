@@ -30,7 +30,7 @@ Além disso, será necessário um editor para trabalhar com o código como [VSCo
 
 - Dentro do Diretório backend:
     - Na pasta principal do projeto: npm install para instalar as dependências;
-    - Apagar o diretório .ENV e em .ENVexemple colocar os respectivos valores seguindo o exemplo colocado. Assim que já estiver substituído, renomear o diretório para .ENV;
+    - Em .ENVexemple colocar os respectivos valores seguindo o exemplo colocado. Assim que já estiver substituído, renomear o diretório para .ENV;
     - Executar o comando "npx sequelize db:create" para criar o BD;
     - Executar o comando "npx sequelize db:migrate" para criar as tabelas dentro do BD;
     - Para rodar o serve, executar com o comando "yarn dev";
