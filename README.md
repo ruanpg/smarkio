@@ -3,7 +3,7 @@
 ## Descrição do Projeto:
 Esse projeto consiste em listar os filmes mais acessados da semana no site do TMDB
 
-##Funcionalidades
+## Funcionalidades
 
 Apresenta seis filmes na homepage, contendo titulo, capa e ano de lançamento.
 Todas as capas são botões clicáveis que, ao clicar, será apresentado um popup com informações complementares sobre o filme
@@ -37,7 +37,7 @@ Além disso, será necessário um editor para trabalhar com o código como [VSCo
     - Executar o comando "yarn serve" para rodar o serv
     - O servidor inciará na porta: 8081 - acesse http://localhost:8081
 
-##Contato
+## Contato
 - Linkedin: [Ruan Pereira Guimarães](https://www.linkedin.com/in/ruan-pereira-1939a112a/)
 - Email: ruanpg@live.com
 - Telefone: +55 (35) 9 9192-7980
