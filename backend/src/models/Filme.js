@@ -9,7 +9,8 @@ class Filme extends Model {
             descricao: DataTypes.STRING(1024),
             genero: DataTypes.STRING,
         }, {
-            sequelize
+            sequelize,
+            modelName:'Filme'
         })
     }
 }
