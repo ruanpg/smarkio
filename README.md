@@ -42,4 +42,3 @@ Além disso, será necessário um editor para trabalhar com o código como [VSCo
 ## Contato
 - Linkedin: [Ruan Pereira Guimarães](https://www.linkedin.com/in/ruan-pereira-1939a112a/)
 - Email: ruanpg@live.com
-- Telefone: +55 (35) 9 9192-7980
